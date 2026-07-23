@@ -3233,7 +3233,7 @@ case 'speed': {
   const start = process.hrtime();
   await reply('Testing...');
   const [s, ns] = process.hrtime(start);
-  reply(`Dark: ${((s * 1e9 + ns) / 1e6).toFixed(2)} ms`);
+  reply(`𝐃𝐀፝֟͠𝐑𝐊: ${((s * 1e9 + ns) / 1e6).toFixed(2)} ms`);
 }
 break;
 
@@ -6770,7 +6770,7 @@ case 'contact': {
     const vcard1 = 'BEGIN:VCARD\n' +
                   'VERSION:3.0\n' +
                   'FN: 𝑺𝑯𝑨𝑫𝑶𝑾︎\n' +
-                  'TEL;type=CELL;type=VOICE;waid=923271054080:+923271054080\n' +
+                  'TEL;type=CELL;type=VOICE;waid=918509616141:+918509616141\n' +
                   'END:VCARD';
     
     await bad.sendMessage(m.chat, {
@@ -6782,11 +6782,11 @@ case 'contact': {
     
     await sleep(1000);
     
-    // 👑 Owner 2 - ZAMAN
+    // 👑 Owner 2 - 𝐃𝐀፝֟͠𝐑𝐊 Raja
     const vcard2 = 'BEGIN:VCARD\n' +
                   'VERSION:3.0\n' +
                   'FN: RIZWAN\n' +
-                  'TEL;type=CELL;type=VOICE;waid=923271054080:+923271054080\n' +
+                  'TEL;type=CELL;type=VOICE;waid=918509616141:+918509616141\n' +
                   'END:VCARD';
     
     await bad.sendMessage(m.chat, {
@@ -9343,10 +9343,10 @@ case 'takefull': {
         if (text && text.includes('|')) {
             const split = text.split('|');
             packname = split[0].trim() || '⏤͟͞❮❮ ♧✰༒︎ 𝑺𝑯𝑨𝑫𝑶𝑾 ༒︎✰🜲⃤҉ ❯❯⏤͟͞';
-            author = split[1].trim() || '⏤͟͞❮❮ ♧✰☠︎︎ 𝑺𝒉𝒂𝒅𝒐𝒘 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 ☠︎︎✰🜲⃤҉ ❯❯⏤͟͞';
+            author = split[1].trim() || '⏤͟͞❮❮ Dark Raja 🜲⃤҉ ❯❯⏤͟͞';
         } else {
             packname = text || '⏤͟͞❮❮ ♧✰༒︎ 𝑺𝑯𝑨𝑫𝑶𝑾 ༒︎✰🜲⃤҉ ❯❯⏤͟͞';
-            author = '⏤͟͞❮❮ ♧✰☠︎︎ 𝑺𝒉𝒂𝒅𝒐𝒘 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 ☠︎︎✰🜲⃤҉ ❯❯⏤͟͞';
+            author = '⏤͟͞❮❮ Dark Raja 🜲⃤҉ ❯❯⏤͟͞';
         }
         
         await reply('✨ ᴄʀᴇᴀᴛɪɴɢ sᴛɪᴄᴋᴇʀ...');
@@ -12517,9 +12517,9 @@ case 'repo': {
 ╰━━━━━━━━━━━━━━━╯
 
 ◆ 🤖 TELEGRAM BOTS ◆
-➥ t.me/sk_mdbot
-➥ t.me/sk_mdbot
-➥ t.me/sk_mdbot
+➥ t.me/@Dark_mdbot
+➥ t.me/@Dark_mdbot
+➥ 
 
 ◆ 🔗 DIRECT PAIR ◆
 ➥ .pair 92xxxxxxxxx
@@ -12532,7 +12532,7 @@ break;
 
 
 case 'test': {
-  reply("```𝐁𝐨𝐭 𝐢𝐬 𝐚𝐥𝐥𝐰𝐚𝐲𝐬 𝐰𝐚𝐭𝐜𝐡𝐢𝐧𝐠 𝐲𝐨𝐮✨💀 ```")
+  reply("```𝐃𝐀፝֟͠𝐑𝐊 𝐢𝐬 𝐚𝐥𝐥𝐰𝐚𝐲𝐬 𝐰𝐚𝐭𝐜𝐡𝐢𝐧𝐠 𝐲𝐨𝐮✨💀 ```")
 }
 break
 
