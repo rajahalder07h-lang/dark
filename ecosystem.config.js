@@ -1,6 +1,6 @@
 /**
-   * Create By ༒︎ 𝑺𝑯𝑨𝑫𝑶𝑾 ༒︎
-   * Contact Me on wa.me/923271054080
+   * Create By 𝐃𝐀፝֟͠𝐑𝐊
+   * Contact Me on wa.me/918509616141
 */
 module.exports = {
   apps: [{
