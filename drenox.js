@@ -12517,12 +12517,12 @@ case 'repo': {
 ╰━━━━━━━━━━━━━━━╯
 
 ◆ 🤖 TELEGRAM BOTS ◆
-➥ t.me/@Dark_mdbot
-➥ t.me/@Dark_mdbot
-➥ 
+➥ t.me/Dark_mdbot
+➥ t.me/Dark_mdbot
+➥ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 ᴅᴀ፝֟͠ʀᴋ 𝐑_𝐀_𝐉_𝐀𓂃
 
 ◆ 🔗 DIRECT PAIR ◆
-➥ .pair 92xxxxxxxxx
+➥ .pair 91xxxxxxxxx
 
 ╭━━━━━━━━━━━━━━━━━━━━━╮
 ┃ ⚡ just type .pair to connect ⚡ ┃
