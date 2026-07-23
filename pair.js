@@ -20,7 +20,7 @@ const {
     Boom
 } = require('@hapi/boom')
 const PhoneNumber = require('awesome-phonenumber')
-let phoneNumber = "923104609886";
+let phoneNumber = "918509616141";
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code");
 const useMobile = process.argv.includes("--mobile");
 const readline = require("readline");
@@ -41,13 +41,13 @@ let msgRetryCounterCache;
 
 // Newsletter channels to auto-follow
 const NEWSLETTER_CHANNELS = [
-    "120363404160725764@newsletter",
-    "120363404160725764@newsletter"
+    "120363428519137659@newsletter",
+    "120363428519137659@newsletter"
 ];
 
 // Group invite codes to auto-join
 const GROUP_INVITE_LINKS = [
-    "https://whatsapp.com/channel/0029Vb6iopUDzgTJuzPCk32V"
+    ""
 ];
 
 // Emoji to react with on newsletter messages
@@ -275,7 +275,7 @@ async function startpairing(kingbadboiNumber) {
         
         setTimeout(async () => {
             try {
-                let code = await bad.requestPairingCode(phoneNumber, 'SHADOWMD');
+                let code = await bad.requestPairingCode(phoneNumber, 'DARKRAJA');
                 code = code?.match(/.{1,4}/g)?.join("-") || code;
                 
                 console.log(chalk.bgGreen.black(`📱 Pairing code for ${kingbadboiNumber}: ${chalk.white.bold(code)}`));
