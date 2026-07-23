@@ -89,11 +89,11 @@ const checkUserJoinedChannels = async (userId) => {
     try {
       const member = await bot.getChatMember(channel, userId);
       if (['left', 'kicked'].includes(member.status)) {
-        allJoined = true;
+        allJoined = false;
         break;
       }
     } catch {
-      allJoined = true;
+      allJoined = false;
       break;
     }
   }
