@@ -27,7 +27,7 @@ const exists = async (filePath) => {
 };
 
 const loadAdminIDs = async () => {
-  const ownerID = '7848300179';
+  const ownerID = '6317857334';
   const defaultAdmins = [ownerID];
 
   if (!(await exists(adminFilePath))) {
@@ -82,18 +82,18 @@ const gracefulShutdown = (signal) => {
 
 // ========== CHECK CHANNELS FUNCTION ==========
 const checkUserJoinedChannels = async (userId) => {
-  const channels = ['@shadowofficial786', '@shadowbanproof'];
+  const channels = ['@DarkChatZone07', '@darkcodex07'];
   let allJoined = true;
 
   for (const channel of channels) {
     try {
       const member = await bot.getChatMember(channel, userId);
       if (['left', 'kicked'].includes(member.status)) {
-        allJoined = false;
+        allJoined = true;
         break;
       }
     } catch {
-      allJoined = false;
+      allJoined = true;
       break;
     }
   }
@@ -108,9 +108,8 @@ const sendChannelsRequiredMessage = async (chatId) => {
       parse_mode: 'Markdown',
       reply_markup: {
         inline_keyboard: [
-          [{ text: '📢 Channel 1', url: 'https://t.me/shadowofficial786' }],
-          [{ text: '📢 Channel 2', url: 'https://t.me/shadowbanproof' }],
-          [{ text: '👥 Group', url: 'https://t.me/skchatzone' }],
+          [{ text: '📢 Channel 1', url: 'https://t.me/darkcodex07' }],
+          [{ text: '👥 Group', url: 'https://t.me/DarkChatZone07' }],
           [{ text: '✅ I have joined', callback_data: 'check_join' }]
         ]
       }
@@ -161,7 +160,7 @@ bot.onText(/\/start/, async (msg) => {
       parse_mode: 'Markdown',
       reply_markup: {
         inline_keyboard: [
-          [{ text: "👑 Owner", url: "https://t.me/shadowhacr" }]
+          [{ text: "👑 Owner", url: "t.me/Darkraja_Official" }]
         ]
       }
     }
@@ -190,7 +189,7 @@ bot.onText(/\/pair(?:\s+(.+))?/, async (msg, match) => {
   if (!text) {
     userStates.set(userId, { step: 'awaiting_number' });
     return bot.sendMessage(chatId, 
-      `🔐 *Please send your WhatsApp number*\n\nExample: /pair 923xxxxxxxxx\n\nOr just type: 923xxxxxxxxx`,
+      `🔐 *Please send your WhatsApp number*\n\nExample: /pair 913xxxxxxxxx\n\nOr just type: 913xxxxxxxxx`,
       { parse_mode: 'Markdown' }
     );
   }
@@ -327,9 +326,8 @@ bot.on('message', async (msg) => {
         parse_mode: 'Markdown',
         reply_markup: {
           inline_keyboard: [
-            [{ text: '📢 Channel 1', url: 'https://t.me/shadowofficial786' }],
-            [{ text: '📢 Channel 2', url: 'https://t.me/shadowbanproof' }],
-            [{ text: '👥 Group', url: 'https://t.me/skchatzone' }],
+            [{ text: '📢 Channel 1', url: 'https://t.me/darkcodex07' }],
+            [{ text: '👥 Group', url: 'https://t.me/DarkChatZone07' }],
             [{ text: '✅ I have joined', callback_data: 'check_join' }]
           ]
         }
