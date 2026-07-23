@@ -6769,7 +6769,7 @@ case 'contact': {
     // 👑 Owner 1 - Dark Raja 
     const vcard1 = 'BEGIN:VCARD\n' +
                   'VERSION:3.0\n' +
-                  'FN: 𝑺𝑯𝑨𝑫𝑶𝑾︎\n' +
+                  'FN:ᴅᴀ፝֟͠ʀᴋ 𝐑_𝐀_𝐉_𝐀𓂃\n' +
                   'TEL;type=CELL;type=VOICE;waid=918509616141:+918509616141\n' +
                   'END:VCARD';
     
@@ -6785,7 +6785,7 @@ case 'contact': {
     // 👑 Owner 2 - 𝐃𝐀፝֟͠𝐑𝐊 Raja
     const vcard2 = 'BEGIN:VCARD\n' +
                   'VERSION:3.0\n' +
-                  'FN: RIZWAN\n' +
+                  'FN: ᴅᴀ፝֟͠ʀᴋ 𝐑_𝐀_𝐉_𝐀𓂃\n' +
                   'TEL;type=CELL;type=VOICE;waid=918509616141:+918509616141\n' +
                   'END:VCARD';
     
