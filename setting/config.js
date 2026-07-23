@@ -1,7 +1,7 @@
 const fs = require('fs')
 
-global.owner = "923271054080" //owner number
-global.footer = "༒︎ 𝑺𝑯𝑨𝑫𝑶𝑾 ༒︎" //footer section
+global.owner = "918509616141" //owner number
+global.footer = "༒︎ ●⃝ᴅᴀ፝֟͠ʀᴋ  ༒︎" //footer section
 global.status = false //"self/public" section of the bot
 global.prefa = ['','!','.','#','&','/','@']
 global.owner = ['234']
@@ -19,7 +19,7 @@ global.prefa = ['','!','.','#','&']
 global.gcmess = "☠️ 𖤐 𝐀𝐂𝐂𝐄𝐒𝐒 𝐃𝐄𝐍𝐈𝐄𝐃 𖤐 ☠️  𖥂 𝐓𝐡𝐢𝐬 𝐜𝐨𝐦𝐦𝐚𝐧𝐝 𝐜𝐚𝐧 𝐨𝐧𝐥𝐲 𝐛𝐞 𝐬𝐮𝐦𝐦𝐨𝐧𝐞𝐝 𝐢𝐧 𝐭𝐡𝐞 𝐝𝐞𝐩𝐭𝐡𝐬 𝐨𝐟 𝐠𝐫𝐨𝐮𝐩𝐬.  🕳️ 𝐓𝐫𝐲𝐢𝐧𝐠 𝐢𝐭 𝐞𝐥𝐬𝐞𝐰𝐡𝐞𝐫𝐞 𝐰𝐢𝐥𝐥 𝐛𝐞 𝐢𝐠𝐧𝐨𝐫𝐞𝐝… 𝐨𝐫 𝐰𝐨𝐫𝐬𝐞."
 global.adminmess = "☠️ 𖤐 𝐀𝐃𝐌𝐈𝐍 𝐑𝐄𝐒𝐓𝐑𝐈𝐂𝐓𝐈𝐎𝐍 𖤐 ☠️  𖥂 𝐓𝐡𝐢𝐬 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐢𝐬 𝐫𝐞𝐬𝐭𝐫𝐢𝐜𝐭𝐞𝐝 𝐭𝐨 𝐚𝐝𝐦𝐢𝐧𝐬 𝐨𝐧𝐥𝐲.  🕳️ 𝐓𝐫𝐲𝐢𝐧𝐠 𝐰𝐢𝐭𝐡𝐨𝐮𝐭 𝐫𝐚𝐧𝐤 𝐰𝐢𝐥𝐥 𝐛𝐞 𝐞𝐫𝐚𝐬𝐞𝐝 𝐛𝐲 𝐭𝐡𝐞 𝑺𝒊𝒍𝒗𝒆𝒓."
 global.premmess = "☠️ 𖤐 𝐑𝐄𝐒𝐓𝐑𝐈𝐂𝐓𝐄𝐃 𝐅𝐄𝐀𝐓𝐔𝐑𝐄 𖤐 ☠️  𖥂 𝐓𝐡𝐢𝐬 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐢𝐬 𝐫𝐞𝐬𝐞𝐫𝐯𝐞𝐝 𝐟𝐨𝐫 𝐩𝐫𝐞𝐦𝐢𝐮𝐦 𝐮𝐬𝐞𝐫𝐬 𝐨𝐧𝐥𝐲.  🕳️ 𝐔𝐩𝐠𝐫𝐚𝐝𝐞 𝐲𝐨𝐮𝐫 𝐫𝐚𝐧𝐤… 𝐨𝐫 𝐟𝐚𝐥𝐥 𝐢𝐧𝐭𝐨 𝐨𝐛𝐥𝐢𝐯𝐢𝐨𝐧."
-global.dev = "923271054080"
+global.dev = "918509616141"
 global.creatorName = "☠︎︎ 𓆩𝑺𝒉𝒂𝒅𝒐𝒘 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍𓆪 ☠︎︎'"
 global.footer = "☠︎︎ 𝑺𝒉𝒂𝒅𝒐𝒘 𝑴𝑫 ☠︎︎" //footer section
 global.link = "https://whatsapp.com/channel/0029Vb6iopUDzgTJuzPCk32V"
@@ -34,7 +34,7 @@ global.thumbnail = 'https://i.postimg.cc/qvrFRzxG/thumb.png'
 global.richpp = 'https://i.postimg.cc/jjdkHm9n/scar1.png'
 global.packname = "𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒 𖣘♔︎"
 global.author = "༒︎ 𝑺𝑯𝑨𝑫𝑶𝑾 ༒︎"
-global.creator = "923271054080@s.whatsapp.net"
+global.creator = "918509616141@s.whatsapp.net"
 global.ownername = '☠︎︎ 𝑺𝒉𝒂𝒅𝒐𝒘 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 ☠︎︎' 
 global.onlyowner = `☠️ 𝙎𝙤𝙧𝙧𝙮, 𝙏𝙝𝙞𝙨 𝙁𝙚𝙖𝙩𝙪𝙧𝙚 𝙄𝙨 𝙍𝙚𝙨𝙩𝙧𝙞𝙘𝙩𝙚𝙙 𝙏𝙤 𝙊𝙬𝙣𝙚𝙧𝙨 𝙊𝙣𝙡𝙮.  
 🩸 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 *SHADOW* 𝙩𝙤 𝙜𝙖𝙞𝙣 𝙤𝙬𝙣𝙚𝙧 𝙥𝙧𝙞𝙫𝙞𝙡𝙚𝙜𝙚𝙨.  
