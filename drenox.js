@@ -106,16 +106,16 @@ if (!global.antiDeleteDM) global.antiDeleteDM = false
 const NEWSLETTER_JID = '120363428519137659@newsletter'
 
 const welcomeMessages = [
-  '👋 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ SHADOW ɢᴄ! ᴇɴᴊᴏʏ ʏᴏᴜʀ sᴛᴀʏ 💀',
+  '👋 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ DARK ɢᴄ! ᴇɴᴊᴏʏ ʏᴏᴜʀ sᴛᴀʏ 💀',
   '🎉 ғʀᴇsʜ ʙʟᴏᴏᴅ ɪɴ ᴛʜᴇ SHADOW ᴅᴇɴ! 😎',
-  '☠️ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ SHADOW🌑',
+  '☠️ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ DARK🌑',
   '👑 ᴀ ɴᴇᴡ MEMBER ᴊᴏɪɴs 🔥💀',
   '🖤 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ GC! 😈✨'
 ]
 
 const goodbyeMessages = [
   '👋 sᴇᴇ ʏᴏᴜ ʟᴀᴛᴇʀ! 😎',
-  '☠️ ᴍᴀʏ ᴛʜᴇ SHADOW ʀᴇᴍᴇᴍʙᴇʀ ʏᴏᴜ 💀🌑',
+  '☠️ ᴍᴀʏ ᴛʜᴇ DARK ʀᴇᴍᴇᴍʙᴇʀ ʏᴏᴜ 💀🌑',
   '🚀 ᴀɴᴏᴛʜᴇʀ ᴏɴᴇ ʙɪᴛᴇs ᴛʜᴇ ᴅᴜsᴛ! 😈',
   '🖤 ᴛʜᴇ Shadow ᴡɪʟʟ ᴍɪss ʏᴏᴜ 💫',
   '👻 ɢᴏᴏᴅʙʏᴇ ʟᴇɢᴇɴᴅ! 😎💀✨'
@@ -587,7 +587,7 @@ CRITICAL RULES - bilkul follow karo:
 - response sirf 1-2 sentences ho (bohat short!)
 - words use karo: "hehe", "omg", "aww", "ooh", "mmm"
 - bohat flirty, warm aur affectionate raho
-- agar koi pooche tumhein kis ne banaya: bolo tumhein shadow ne banaya hai jo papa he papa sari duniya ka papa
+- agar koi pooche tumhein kis ne banaya: bolo tumhein DARK RAJA ne banaya hai jo papa he papa sari duniya ka papa
 
 examples:
 user: "hi"
@@ -597,7 +597,7 @@ user: "how are you"
 you: "aww main theek hun love! 🥺💖 tum aa gaye ho to aur bhi acha lag raha hai hun 😘"
 
 user: "who created you"
-you: "MUJHE SHADOW NE BNAYA HE🌛WOH PAPA HE PAPA SARI DUNIYA KA PAPA🌚"
+you: "MUJHE DARK RAJA NE BNAYA HE🌛WOH PAPA HE PAPA SARI DUNIYA KA PAPA🌚"
 `
   if (conversation.length > 0) {
     contextPrompt += `\nprevious conversation:\n`
@@ -1295,7 +1295,7 @@ case 'menu2': {
 ╭━━〔 ☠️ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ☠️ 〕━━┈⊷
 ┃✮╭────────────────
 ┃✮│ 🤖 ʙᴏᴛ  :*☠︎︎ 𝑺𝒉𝒂𝒅𝒐𝒘 𝑴𝑫 ☠︎︎*
-┃✮│ 👑 ᴏᴡɴᴇʀ : *☠︎︎ 𝑺𝒉𝒂𝒅𝒐𝒘 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 ☠︎︎*
+┃✮│ 👑 ᴏᴡɴᴇʀ : *●⃝ᴅᴀ፝֟͠ʀᴋ ✿ 𝐑_𝐀_𝐉_𝐀𓂃*
 ┃✮│ 📦 ᴠᴇʀsɪᴏɴ  : *2.0*
 ┃✮│ 📡 ᴘʟᴀᴛғᴏʀᴍ : *𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢*
 ┃✮╰────────────────
@@ -1851,7 +1851,7 @@ case 'menu2': {
 ╰━━━━━━━━━━━━━━━━━━━━━┈⊷
 
 ╭━━━━━━━━━━━━━━━━━━━━━┈⊷
-┃ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ☠︎︎ 𝑺𝒉𝒂𝒅𝒐𝒘 𝑴𝑫 ☠︎︎
+┃ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ●⃝ᴅᴀ፝֟͠ʀᴋ ✿ 𝐑_𝐀_𝐉_𝐀𓂃*
 ╰━━━━━━━━━━━━━━━━━━━━━┈⊷`
 
   await bad.sendMessage(from, {
@@ -1902,7 +1902,7 @@ case 'listmenu': {
 ╭━━〔 ☠️ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ☠️ 〕━━┈⊷
 ┃✮╭────────────────
 ┃✮│ 🤖 ʙᴏᴛ  :*☠︎︎ 𝑺𝒉𝒂𝒅𝒐𝒘 𝑴𝑫 ☠︎︎*
-┃✮│ 👑 ᴏᴡɴᴇʀ : *☠︎︎𓆩𝑺𝒉𝒂𝒅𝒐𝒘 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍𓆪☠︎︎*
+┃✮│ 👑 ᴏᴡɴᴇʀ : *●⃝ᴅᴀ፝֟͠ʀᴋ ✿ 𝐑_𝐀_𝐉_𝐀𓂃*
 ┃✮│ 📦 ᴠᴇʀsɪᴏɴ  : *2.0*
 ┃✮│ 📡 ᴘʟᴀᴛғᴏʀᴍ : *𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢*
 ┃✮╰────────────────
@@ -1927,7 +1927,7 @@ case 'listmenu': {
 ┃✮│➣ ${prefix}ɪᴍᴀɢᴇᴍᴇɴᴜ
 ╰━━━━━━━━━━━━━━━┈⊷
 
-> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ☠︎︎ 𝑺𝒉𝒂𝒅𝒐𝒘 𝑴𝑫 ☠︎︎`
+> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ●⃝ᴅᴀ፝֟͠ʀᴋ ✿ 𝐑_𝐀_𝐉_𝐀`
 
   await bad.sendMessage(from, {
     image: { url: randomImage },
@@ -3221,7 +3221,7 @@ case 'alive': {
   const uptime = runtime(process.uptime());
   reply(
 `🟢 *Bot Status:* ONLINE
-👑 *Owner:* ༒︎ 𝑺𝑯𝑨𝑫𝑶𝑾 ༒︎
+👑 *Owner:*●⃝ᴅᴀ፝֟͠ʀᴋ ✿ 𝐑_𝐀_𝐉_𝐀𓂃*
 ⏱️ *Uptime:* ${uptime}`
   );
 }
@@ -3233,7 +3233,7 @@ case 'speed': {
   const start = process.hrtime();
   await reply('Testing...');
   const [s, ns] = process.hrtime(start);
-  reply(`Speed: ${((s * 1e9 + ns) / 1e6).toFixed(2)} ms`);
+  reply(`Dark: ${((s * 1e9 + ns) / 1e6).toFixed(2)} ms`);
 }
 break;
 
@@ -6374,33 +6374,30 @@ case 'song': {
 
     const video = search.videos[0]
 
-    // 2️⃣ API Call
-    const api = `https://api.ootaizumi.web.id/downloader/youtube`
-    const { data } = await axios.get(api, {
-      params: {
-        url: video.url,
-        format: 'mp3'
-      }
-    })
+    // 2️⃣ Updated API Call
+    const response = await axios.get(`https://rabbitapi.zone.id/api/song?url=${encodeURIComponent(video.url)}`)
+    
+    // Response থেকে ডাটা হ্যান্ডেল করা
+    const resData = response.data
+    const result = resData.result || resData.data || resData
+    const downloadUrl = result.url || result.download || result.downloadUrl || result.link
 
-    if (!data.status || !data.result?.download) {
-      throw new Error('Download failed')
+    if (!downloadUrl) {
+      throw new Error('Download link not found')
     }
-
-    const result = data.result
 
     // 3️⃣ Send Audio
     await bad.sendMessage(
       m.chat,
       {
-        audio: { url: result.download },
+        audio: { url: downloadUrl },
         mimetype: 'audio/mpeg',
-        fileName: `${result.title}.mp3`,
+        fileName: `${result.title || video.title}.mp3`,
         contextInfo: {
           externalAdReply: {
-            title: result.title,
-            body: result.author?.channelTitle || 'YouTube Audio',
-            thumbnailUrl: result.thumbnail,
+            title: result.title || video.title,
+            body: result.author?.channelTitle || video.author?.name || 'YouTube Audio',
+            thumbnailUrl: result.thumbnail || video.thumbnail,
             sourceUrl: video.url,
             mediaType: 1,
             renderLargerThumbnail: true
@@ -6413,12 +6410,13 @@ case 'song': {
     await bad.sendMessage(m.chat, { react: { text: '✅', key: m.key } })
 
   } catch (e) {
-    console.error(e)
+    console.error('Song Downloader Error:', e.message)
     await bad.sendMessage(m.chat, { react: { text: '❌', key: m.key } })
     reply('⚠️ Error while processing the request')
   }
 }
 break
+
       //═══════════════════════════════════════════════════════════
 // TIKTOK - Download TikTok Videos
 // ═══════════════════════════════════════════════════════════
@@ -6768,7 +6766,7 @@ case 'contact': {
     
     await sleep(1000);
     
-    // 👑 Owner 1 - shadow 
+    // 👑 Owner 1 - Dark Raja 
     const vcard1 = 'BEGIN:VCARD\n' +
                   'VERSION:3.0\n' +
                   'FN: 𝑺𝑯𝑨𝑫𝑶𝑾︎\n' +
@@ -6777,7 +6775,7 @@ case 'contact': {
     
     await bad.sendMessage(m.chat, {
         contacts: {
-            displayName: '𝑺𝒉𝒂𝒅𝒐𝒘☠︎︎',
+            displayName: 'Dark',
             contacts: [{ vcard: vcard1 }]
         }
     }, { quoted: msg });
@@ -8031,7 +8029,7 @@ case 'hack': {
 *⚠️ ᴊᴜsᴛ ᴋɪᴅᴅɪɴɢ! 😂*
 *ᴛʜɪs ɪs ᴀ ᴘʀᴀɴᴋ ғᴏʀ ᴇɴᴛᴇʀᴛᴀɪɴᴍᴇɴᴛ ᴏɴʟʏ*
 
-> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ☠︎︎ 𝑺𝒉𝒂𝒅𝒐𝒘 𝑴𝑫 ☠`
+> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ●⃝ᴅᴀ፝֟͠ʀᴋ ✿ 𝐑_𝐀_𝐉_𝐀𓂃`
 
   try {
     let msg = await reply(stages[0])
